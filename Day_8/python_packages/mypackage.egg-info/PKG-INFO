@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mypackage
+Version: 0.1
+Summary: A simple example package
+Author: Saptarshi Majumdar'
+License: MIT
+Keywords: example package
+Dynamic: author
+Dynamic: keywords
+Dynamic: license
+Dynamic: summary
